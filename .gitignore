@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log*
+build/
+dist/
+.env
+*.log
+.DS_Store
+.idea/
+.vscode/
+package-lock.json
